@@ -20,16 +20,11 @@ Funcionalidades testadas no rodapé da página:
 #Estrutura do Repositório
 
 bolt-institucional-tests/
-├── README.md # Documentação do projeto
-├── relatorio.pdf # Relatório de bugs encontrados
-├── cenarios.feature # Casos de teste em Gherkin (BDD)
-├── metodologia.md # Como os testes foram realizados
+├── 01_Bugs_Bolt_Institucional.md # Web (Desktop), Navegação pública — URLs analisadas diretamente.
+├── 02_Casos_de_Teste_Gherkin.feature # Casos de teste em Gherkin (BDD)
+├── 03_Teste_Exploratorio_Sessao.md # Documento de Teste Exploratório
+├── 04_Melhorias_Sugeridas.md # Melhorias Sugeridas — Bolt Institucional
 
 
----
 
-#Como usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/bolt-institucional-tests.git
 
